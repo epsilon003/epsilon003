@@ -1,5 +1,5 @@
 # 💫 About Me: Hi, this is Abhimantr Singh
-👀 I’m interested in AI and a little but of everything<br>🌱 I’m currently learning DSA and Agentic AI implementation<br>💞️ I’m looking to collaborate on long term projects involving AI<br>📫 I'm active on my email, abhimantrsingh@gmail.com<br>😄 Pronouns: he/him
+👀 I’m interested in AI and a little bit of everything<br>🌱 I’m currently learning DSA and Agentic AI implementation<br>💞️ I’m looking to collaborate on long term projects involving AI<br>📫 I'm active on my email, abhimantrsingh@gmail.com<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
