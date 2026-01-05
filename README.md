@@ -1,4 +1,4 @@
-# 💫 About Me: Hi, this is Abhimantr Singh
+# 💫 Hiyo theree!!!
 👀 I’m interested in AI and a little bit of everything<br>🌱 I’m currently dipping my toes everywhere!!<br>💞️ I’m looking to collaborate on long term projects involving AI, Data Science, Full Stack, Cybersecurity etc.<br>📫 I'm active on my email, abhimantrsingh@gmail.com<br>😄 Pronouns: he/him
 
 
