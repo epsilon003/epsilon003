@@ -1,4 +1,4 @@
-![](download.png)
+![](banner.png)
 A 21 year old engineering student generalising...
 
 
