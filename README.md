@@ -1,8 +1,8 @@
 ![](banner.png)
-A 21 year old engineering student generalising...
+A 21 year old tech generalist who enjoys working across the stack, from designing systems and writing backend logic to building usable frontends and automating workflows. I value understanding how things fit together end-to-end, not just making individual components work. Curious by default and pragmatic by choice, I like learning new tools when needed and using the right level of engineering to solve real problems.
 
 
-# Statistics:
+# Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=epsilon003&theme=highcontrast)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon003&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)</br>
 ![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=abhimantr_singh1)</br>
