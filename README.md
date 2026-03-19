@@ -5,7 +5,9 @@ A 21 year old tech generalist who enjoys working across the stack, from designin
 # Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=epsilon003&theme=highcontrast)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon003&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)</br>
+HackerRank</br>
 ![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=abhimantr_singh1)</br>
+Leetcode</br>
 [![LeetCode Stats](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F_epsilon_003&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/_epsilon_003/)</br>
 
 # Tech Stack:
