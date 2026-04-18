@@ -1,6 +1,7 @@
 ![](assets/banner.png)
 A 21 year old tech generalist who enjoys working across the stack, from designing systems and writing backend logic to building usable frontends and automating workflows. I value understanding how things fit together end-to-end, not just making individual components work. Curious by default and pragmatic by choice, I like learning new tools when needed and using the right level of engineering to solve real problems.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B20F7&width=500&lines=Check+out+my+latest+project+ChessLens.;The+first+of+its+type;Upload+any+on-board+game+position;Upload.+Analyse.+Share.)](https://chess-lens.pages.dev)
 
 # Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=epsilon003&theme=highcontrast)
