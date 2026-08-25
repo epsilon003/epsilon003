@@ -7,16 +7,12 @@ I’m Abhimantr Singh—a software builder exploring the space where AI, systems
 ## Recent commits
 
 <!--START_SECTION:recent-commits-->
-| Date | Repository | Commit |
+| Commit | Repository | Date |
 | :--- | :--- | :--- |
-| Aug 25, 2026 | [epsilon003/triage](https://github.com/epsilon003/triage) | [config](https://github.com/epsilon003/triage/commit/595ea890fd16c93229bbbe7a05e68cfb0707b846) |
-| Aug 24, 2026 | [epsilon003/gaude](https://github.com/epsilon003/gaude) | [config](https://github.com/epsilon003/gaude/commit/2a68703adc9519a8593355aab0eb11ec42f7e021) |
-| Aug 24, 2026 | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | [Update test_solver.py](https://github.com/epsilon003/wordle-agent/commit/a2148e80e535000339af5209845ac08e0b70cb19) |
-| Aug 24, 2026 | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | [Update player.py](https://github.com/epsilon003/wordle-agent/commit/05feebe42051f42f4ba6fc41d527df2e51e62a66) |
-| Aug 24, 2026 | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | [Update runner_headless.py](https://github.com/epsilon003/wordle-agent/commit/8c7235583b631a25c679a29e4ee5fda769ef6421) |
-| Aug 24, 2026 | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | [Update solver.py](https://github.com/epsilon003/wordle-agent/commit/7d282aedfd8610b5f5cd8481695501658612a8ca) |
-| Aug 18, 2026 | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | [refine](https://github.com/epsilon003/wordle-agent/commit/a7475f2ff7b87f51eee253fb2447c0bae0b700e9) |
-| Aug 18, 2026 | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | [readme](https://github.com/epsilon003/wordle-agent/commit/b99e328252874240eae8404a1d5f31e7fc43420d) |
+| [config](https://github.com/epsilon003/triage/commit/d6ca5c62381841360c46d8c4f6fff4ebdcd766ca) | [epsilon003/triage](https://github.com/epsilon003/triage) | 25 Aug 2026, 03:11 pm IST |
+| [config](https://github.com/epsilon003/triage/commit/595ea890fd16c93229bbbe7a05e68cfb0707b846) | [epsilon003/triage](https://github.com/epsilon003/triage) | 25 Aug 2026, 03:05 pm IST |
+| [config](https://github.com/epsilon003/triage/commit/1713a6ac212b37cbce1d6080d878019f724969bc) | [epsilon003/triage](https://github.com/epsilon003/triage) | 25 Aug 2026, 03:00 pm IST |
+| [config](https://github.com/epsilon003/gaude/commit/2a68703adc9519a8593355aab0eb11ec42f7e021) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 24 Aug 2026, 06:05 pm IST |
 <!--END_SECTION:recent-commits-->
 
 # Tech Stack:
