@@ -10,9 +10,9 @@ I’m Abhimantr Singh—a software builder exploring the space where AI, systems
 | Commit | Repository | Date |
 | :--- | :--- | :--- |
 | [Update stats-card.svg.ts](https://github.com/epsilon003/wordle-agent/commit/1af51d90b0571d3c5f6e800d193e7f2de114bef0) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 27 Aug 2026, 01:23 am IST |
+| [Update README.md](https://github.com/epsilon003/wordle-agent/commit/c0874adee272fa2a749717ce9954d8c82c836aa0) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 27 Aug 2026, 01:22 am IST |
 | [Update README.md](https://github.com/epsilon003/wordle-agent/commit/02342ac3cc9b2a56bd6ad8f9478d451b441ff71a) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 27 Aug 2026, 01:18 am IST |
 | [Create stats-card.svg.ts](https://github.com/epsilon003/wordle-agent/commit/a8cdb6b338363f967e5e46f8cdc467962314f69a) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 27 Aug 2026, 01:15 am IST |
-| [config](https://github.com/epsilon003/triage/commit/d6ca5c62381841360c46d8c4f6fff4ebdcd766ca) | [epsilon003/triage](https://github.com/epsilon003/triage) | 25 Aug 2026, 03:11 pm IST |
 <!--END_SECTION:recent-commits-->
 
 # Tech Stack:
