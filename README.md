@@ -9,10 +9,10 @@ I’m Abhimantr Singh—a software builder exploring the space where AI, systems
 <!--START_SECTION:recent-commits-->
 | Commit | Repository | Date |
 | :--- | :--- | :--- |
+| [Migration](https://github.com/epsilon003/gaude/commit/3183e8a749843bced87efbfa843961c307d0b4a6) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 30 Aug 2026, 05:12 pm IST |
 | [Update stats-card.svg.ts](https://github.com/epsilon003/wordle-agent/commit/1af51d90b0571d3c5f6e800d193e7f2de114bef0) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 27 Aug 2026, 01:23 am IST |
 | [Update README.md](https://github.com/epsilon003/wordle-agent/commit/c0874adee272fa2a749717ce9954d8c82c836aa0) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 27 Aug 2026, 01:22 am IST |
 | [Update README.md](https://github.com/epsilon003/wordle-agent/commit/02342ac3cc9b2a56bd6ad8f9478d451b441ff71a) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 27 Aug 2026, 01:18 am IST |
-| [Create stats-card.svg.ts](https://github.com/epsilon003/wordle-agent/commit/a8cdb6b338363f967e5e46f8cdc467962314f69a) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 27 Aug 2026, 01:15 am IST |
 <!--END_SECTION:recent-commits-->
 
 # Tech Stack:
