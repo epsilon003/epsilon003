@@ -9,10 +9,10 @@ I’m Abhimantr Singh—a software builder exploring the space where AI, systems
 <!--START_SECTION:recent-commits-->
 | Commit | Repository | Date |
 | :--- | :--- | :--- |
+| [fix](https://github.com/epsilon003/niche/commit/402020162b86e7d25357891ca31f3d555ce66eb5) | [epsilon003/niche](https://github.com/epsilon003/niche) | 5 Sept 2026, 03:07 am IST |
+| [fixes](https://github.com/epsilon003/niche/commit/5e6f1f4565fa4da8ffddd9126b96bd438a8e1b1b) | [epsilon003/niche](https://github.com/epsilon003/niche) | 5 Sept 2026, 02:29 am IST |
+| [ui upgrade](https://github.com/epsilon003/niche/commit/7a18e1a847f8c135e2c06f9a98b9c93c76cc28d6) | [epsilon003/niche](https://github.com/epsilon003/niche) | 4 Sept 2026, 11:29 pm IST |
 | [improvements](https://github.com/epsilon003/gaude/commit/7c31c2545d07fbdad5bb79413fae5666c88d889e) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 2 Sept 2026, 01:03 am IST |
-| [Phase 2](https://github.com/epsilon003/deadshot/commit/1886e63395d06ce5193c958767a16d21a674f86e) | [epsilon003/deadshot](https://github.com/epsilon003/deadshot) | 1 Sept 2026, 01:56 am IST |
-| [Migration](https://github.com/epsilon003/gaude/commit/3183e8a749843bced87efbfa843961c307d0b4a6) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 30 Aug 2026, 05:12 pm IST |
-| [ThinkingOrbs](https://github.com/epsilon003/gaude/commit/4607730e80a952060c5d5f75389689fd021b4b5d) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 28 Aug 2026, 11:46 pm IST |
 <!--END_SECTION:recent-commits-->
 
 # Tech Stack:
