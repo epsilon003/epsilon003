@@ -9,10 +9,10 @@ I’m Abhimantr Singh—a software builder exploring the space where AI, systems
 <!--START_SECTION:recent-commits-->
 | Commit | Repository | Date |
 | :--- | :--- | :--- |
+| [Docs](https://github.com/epsilon003/gaude/commit/68a3591d7f54a1d41efff7ac2d6459b7c9d73e18) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 9 Sept 2026, 02:08 am IST |
 | [doc](https://github.com/epsilon003/gaude/commit/6fa2a0d98b7aee086cc9ff5b6f390cd6203b34a9) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 6 Sept 2026, 10:14 pm IST |
 | [updated readme](https://github.com/epsilon003/gaude/commit/6b4678bd232fd86de8f83c153b747b3f4a1f3593) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 2 Sept 2026, 02:19 pm IST |
 | [improvements](https://github.com/epsilon003/gaude/commit/7c31c2545d07fbdad5bb79413fae5666c88d889e) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 2 Sept 2026, 01:03 am IST |
-| [Phase 2](https://github.com/epsilon003/deadshot/commit/1886e63395d06ce5193c958767a16d21a674f86e) | [epsilon003/deadshot](https://github.com/epsilon003/deadshot) | 1 Sept 2026, 01:56 am IST |
 <!--END_SECTION:recent-commits-->
 
 # Tech Stack:
