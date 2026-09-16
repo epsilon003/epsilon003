@@ -9,10 +9,10 @@ I’m Abhimantr Singh—a software builder exploring the space where AI, systems
 <!--START_SECTION:recent-commits-->
 | Commit | Repository | Date |
 | :--- | :--- | :--- |
+| [hooks](https://github.com/epsilon003/gaude/commit/5ec1b509376c6ec61bfee3533f339b228e639ddc) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 16 Sept 2026, 10:42 am IST |
 | [ci](https://github.com/epsilon003/gaude/commit/68b4a5f43f0c370f65fef5c609fc6874f13cb444) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 15 Sept 2026, 03:06 pm IST |
 | [Update README.md](https://github.com/epsilon003/gaude/commit/453033dc810d5a60510e6262b04bf3140e9ce673) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 14 Sept 2026, 11:04 pm IST |
-| [Create LICENSE](https://github.com/epsilon003/gaude/commit/345e7cf9ee483e32afa9c5ecd990ddcc07645659) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 14 Sept 2026, 10:34 pm IST |
-| [eval](https://github.com/epsilon003/gaude/commit/478f5e425d225ee8969cd191731aff1cb8626389) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 14 Sept 2026, 10:21 pm IST |
+| [Update README.md](https://github.com/epsilon003/gaude/commit/e9cdb595ef03a7b4ce2ccaf0f023daf2766ef8bf) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 14 Sept 2026, 11:03 pm IST |
 <!--END_SECTION:recent-commits-->
 
 # Tech Stack:
