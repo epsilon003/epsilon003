@@ -9,10 +9,10 @@ I’m Abhimantr Singh—a software builder exploring the space where AI, systems
 <!--START_SECTION:recent-commits-->
 | Commit | Repository | Date |
 | :--- | :--- | :--- |
+| [eval-harness](https://github.com/epsilon003/gaude/commit/06ff2eeadffe8a91996c70f1ed1898edd5c60bd1) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 17 Sept 2026, 03:17 pm IST |
 | [repoName Assertion](https://github.com/epsilon003/gaude/commit/0ee45a6fe80b44e784bd279112ba7af2715c03bd) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 17 Sept 2026, 01:42 pm IST |
 | [allowedDevOrigins](https://github.com/epsilon003/gaude/commit/1558dc9f12088e66c8f400488f4d140c11535636) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 17 Sept 2026, 01:36 pm IST |
 | [ci](https://github.com/epsilon003/gaude/commit/77b277b345c157427523909414a40c760be3af1e) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 16 Sept 2026, 11:45 pm IST |
-| [hooks](https://github.com/epsilon003/gaude/commit/5ec1b509376c6ec61bfee3533f339b228e639ddc) | [epsilon003/gaude](https://github.com/epsilon003/gaude) | 16 Sept 2026, 10:42 am IST |
 <!--END_SECTION:recent-commits-->
 
 # Tech Stack:
