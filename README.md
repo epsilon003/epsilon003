@@ -7,11 +7,7 @@ I’m Abhimantr Singh—a software builder exploring the space where AI, systems
 ## Recent commits
 
 <!--START_SECTION:recent-commits-->
-| Commit | Repository | Date |
-| :--- | :--- | :--- |
-| [Update supabase-keepalive.yml](https://github.com/epsilon003/wordle-agent/commit/37af2cc26b8b5fc3eecc38200d9a0efa4b5e68df) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 5 Oct 2026, 08:17 pm IST |
-| [Update supabase-keepalive.yml](https://github.com/epsilon003/wordle-agent/commit/8eb1ac4450b33fc41e30d61d116a7d6aa97632ae) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 5 Oct 2026, 08:13 pm IST |
-| [Create supabase-keepalive.yml](https://github.com/epsilon003/wordle-agent/commit/d2865884034211fb77338b4e96c59e3a114aad3e) | [epsilon003/wordle-agent](https://github.com/epsilon003/wordle-agent) | 5 Oct 2026, 08:11 pm IST |
+_No recent public commits found yet._
 <!--END_SECTION:recent-commits-->
 
 # Tech Stack:
